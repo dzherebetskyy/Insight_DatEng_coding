@@ -1,7 +1,9 @@
 # Insight_DatEng_coding
 Written by Danylo Zherebetskyy in Python on July 11,2016
 for Insight Data Engineering - Coding Challenge
-rolling_median.py
+
+Written code:  rolling_median.py
+New zip-master with passed predesigned tests and own created tests: coding-challenge-master_DZ.zip
 
 Requires to import 
 sys, os, json, datetime and numpy
