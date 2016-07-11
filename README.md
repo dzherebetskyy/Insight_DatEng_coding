@@ -6,8 +6,8 @@ Written code:  rolling_median.py
 
 New zip-master with passed predesigned tests and own created tests: coding-challenge-master_DZ.zip
 
-Requires to import 
-sys, os, json, datetime and numpy
+Requires to 
+import sys, os, json, datetime, numpy
 
 Works with data up to 1GB
 
